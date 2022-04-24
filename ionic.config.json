@@ -1,0 +1,11 @@
+{
+  "name": "Week3Groceries",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "a075856a"
+}
